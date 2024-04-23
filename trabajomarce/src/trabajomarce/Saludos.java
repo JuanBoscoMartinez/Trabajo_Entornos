@@ -14,6 +14,8 @@ public class Saludos {
 		
 		System.out.println("eriz dice: que no, el huevo");
 		
+		System.out.println("eriz dice: repito que es el huevo");
+		
 	}
 
 }
