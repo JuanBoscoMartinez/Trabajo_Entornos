@@ -12,7 +12,7 @@ public class Saludos {
 		
 		System.out.println("Bosco dice Hola");
 		
-		System.out.println("eriz dice: el huevo vino antes que la gallina");
+		System.out.println("eriz dice: que no, el huevo");
 		
 	}
 
