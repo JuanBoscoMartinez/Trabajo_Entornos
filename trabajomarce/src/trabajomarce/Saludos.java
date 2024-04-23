@@ -10,6 +10,8 @@ public class Saludos {
 		
 		System.out.println("Aupa ota vez Marce!");
 		
+		System.out.println("Bosco dice Hola");
+		
 	}
 
 }
