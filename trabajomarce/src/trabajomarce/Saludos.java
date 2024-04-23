@@ -12,6 +12,8 @@ public class Saludos {
 		
 		System.out.println("Bosco dice Hola");
 		
+		System.out.println("Bosco dice: la gallina vino antes que el huevo");
+
 	}
 
 }
